@@ -6,6 +6,5 @@ export default props => {
             <button onClick={props.setInc} >+</button>
             <button onClick={props.setDec} >-</button>
         </div>
-
     )
 }
